@@ -1,7 +1,7 @@
 # Experiment 10 – Student Management REST API (ASP.NET Core)
 
 **Course:** 01CE1523 - .NET Technologies  
-**Student:** Venisha Makadia (92510103027)  
+**Student:** Om Devmurari (92510103001)  
 **Department:** Computer Engineering, Marwadi University  
 
 ## Features
