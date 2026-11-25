@@ -1,7 +1,7 @@
 # Experiment 11 – Smart Campus Service Portal (MVC + SQLite + REST API)
 
 **Course:** 01CE1523 - .NET Technologies  
-**Student:** Venisha Makadia (92510103027)  
+**Student:** Om Devmurari (92510103001)  
 **Department:** Computer Engineering, Marwadi University  
 
 ## Features
